@@ -1324,6 +1324,7 @@ Challenge repos:
 
 Mock Interviews:
 - [Gainlo.co: Mock interviewers from big companies](http://www.gainlo.co/) - I used this and it helped me relax for the phone screen and on-site interview.
+- [interviewing.io: Mock interviews with senior FAANG engineers](https://interviewing.io/) - book algorithmic or systems design or even anonymously interview for real jobs
 - [Pramp: Mock interviews from/with peers](https://www.pramp.com/) - peer-to-peer model of practice interviews
 - [Refdash: Mock interviews and expedited interviews](https://refdash.com/) - also help candidates fast track by skipping multiple interviews with tech companies.
 
